@@ -1,0 +1,29 @@
+
+.content {
+    padding: 0px 40px;
+}
+.buy-now-btn {
+   background-color: black;
+}
+.seeall-title {
+    color: orange;
+}
+a:hover {
+    color: peru;
+    text-decoration: none;
+}
+.price {
+    text-align: center;
+    font-size: 24px;
+}
+.btn {
+    position: relative;
+    left: 100px;
+    top: 10px;
+}
+.container-margin{
+    margin-top: 80px;
+}
+.small-card {
+    background-color: peru;
+}
